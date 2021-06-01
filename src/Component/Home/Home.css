@@ -1,0 +1,11 @@
+.itemBorder{
+    border: 1px solid gray;
+}
+
+.text-primary{
+    text-decoration:none ;
+    color: black !important;
+}
+.text-primary:hover{
+    color: white !important;
+}
